@@ -32,3 +32,6 @@ Aplicativo Android de controle de gastos pessoais, desenvolvido com foco em simp
 1. Clone este repositório:
    ```bash
    git clone https://github.com/odaniff/ControledeGastos.git
+
+## O Arquivo principal MainActivity.kt está localizado no path: 
+- app/src/main/java/com/example/controledegastos
